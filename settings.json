@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "MRKFUN.aternos.me",
+    "ip": "MRKFUN.aternos.me:39346",
     "port": 39346,
     "version": "1.21.11",
     "try-creative": false
